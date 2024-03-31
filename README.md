@@ -37,4 +37,4 @@
 第三个单词是：`学生`，学生的日文我随便输一个：かくせい![image](https://github.com/xqmkkd/Standard-Japanese-Vocabulary-Learning-Program/assets/143811250/2c16f7b0-8e1f-48b3-86f1-697178d4f2a9)
 显示错误！ 原来是浊辅音`がくせい`而不是清辅音かくせい！
 
-##这就是全部的使用方法，你学会了吗？
+#### 这就是全部的使用方法，你学会了吗？
