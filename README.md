@@ -2,7 +2,7 @@
 
 
 
-## 使用方法：双击 日语I单词.exe 文件  
+## 使用方法：双击 `日语I单词.exe` 文件  
 
 ### 你会看到 ![image](https://github.com/xqmkkd/Standard-Japanese-Vocabulary-Learning-Program/assets/143811250/aea100d1-9613-4616-a863-d1775713892b)
 
